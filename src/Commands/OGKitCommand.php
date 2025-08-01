@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace OGKit\OGKit\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class OGKitCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'ogkit';
 
     public $description = 'My command';
 
